@@ -1,4 +1,4 @@
-finction countPositivesSumNegatives(input) {
+function countPositivesSumNegatives(input) {
     if (input ==null || input=='') {
       return []}
     let count = 0
